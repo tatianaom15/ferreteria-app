@@ -1,6 +1,6 @@
 # ferreteria-app
-# Sistema de Gestión de Ferretería
 
+Sistema de Gestión de Ferretería
 Proyecto web desarrollado como caso de estudio para la gestión básica de una ferretería.
 
 ##Tecnologías utilizadas
